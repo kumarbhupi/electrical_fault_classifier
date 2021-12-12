@@ -28,6 +28,10 @@ Utilizando un escalado estándar, uno de mínimos y máximos para ver como queda
 | Logistic Regression | default | - | - |
 | Perceptron | default | - | - |
 
+## Demo
+Per tal de fer una prova, es pot fer servir amb la següent comanda <br>
+ ````python3 demo/demo.py ```` 
+
 ## Conclusiones
 Según los resultados que hemos visto en notebook, los mejores modelos para predecir dicho problema, cuando un sistema electrónica puede sufrir un fallo según las fuentes de energía y la corriente por cada línea serían:<br> 
 Utilizando un modelo clasificador de <b>Máquinas de vectores de soporte</b> con el kernel `RBF`, o una <b>red neuronal</b>. <br>
