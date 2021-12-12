@@ -29,7 +29,8 @@ Utilizando un escalado estándar, uno de mínimos y máximos para ver como queda
 | Perceptron | default | - | - |
 
 ## Demo
-Per tal de fer una prova, es pot fer servir amb la següent comanda <br>
+Para probar, se debe de ejecutar desde la raiz:<br>
+
  ````python3 demo/demo.py ```` 
 
 ## Conclusiones
